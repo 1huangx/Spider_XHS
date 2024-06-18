@@ -1,0 +1,6 @@
+# gitignore ignore all files under datas_search
+datas_search/*
+# all files and folder _pycache_ are ignored
+_pycahce_/*
+# and all files ended with .pyc are ignored
+*.pyc
